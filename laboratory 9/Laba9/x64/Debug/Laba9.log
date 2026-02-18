@@ -1,0 +1,26 @@
+﻿Сборка начата 18.02.2026 8:20:20.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\KotLut\Desktop\Документы Ули\Laba9\Laba9.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++20 /permissive- /Fo"Laba9\x64\Debug\\" /Fd"Laba9\x64\Debug\vc145.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt bin_converter.cpp file29.cpp file48.cpp file6.cpp Laba9.cpp recur14.cpp
+         bin_converter.cpp
+         file29.cpp
+         file48.cpp
+         file6.cpp
+         Laba9.cpp
+         recur14.cpp
+         Создание кода...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KotLut\Desktop\Документы Ули\Laba9\x64\Debug\Laba9.exe" /INCREMENTAL /ILK:"Laba9\x64\Debug\Laba9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\KotLut\Desktop\Документы Ули\Laba9\x64\Debug\Laba9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KotLut\Desktop\Документы Ули\Laba9\x64\Debug\Laba9.lib" /MACHINE:X64 Laba9\x64\Debug\bin_converter.obj
+         Laba9\x64\Debug\file29.obj
+         Laba9\x64\Debug\file48.obj
+         Laba9\x64\Debug\file6.obj
+         Laba9\x64\Debug\Laba9.obj
+         Laba9\x64\Debug\recur14.obj
+         Laba9.vcxproj -> C:\Users\KotLut\Desktop\Документы Ули\Laba9\x64\Debug\Laba9.exe
+     1>Сборка проекта "C:\Users\KotLut\Desktop\Документы Ули\Laba9\Laba9.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:05.43
