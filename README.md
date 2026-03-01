@@ -1,4 +1,4 @@
-# 👩‍💻 Лабораторки по C++
+# Лабораторки по C++
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
