@@ -6,4 +6,5 @@
 [![Status: In Progress](https://img.shields.io/badge/Status-In_Progress-blue.svg)](https://github.com/yourusername/cpp-labs)
 
 Хамзина Ульяна Маратовна
+
 ИТ - 17, 18 - 2025 НБ
