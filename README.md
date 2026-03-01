@@ -4,3 +4,6 @@
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white)
 [![Status: In Progress](https://img.shields.io/badge/Status-In_Progress-blue.svg)](https://github.com/yourusername/cpp-labs)
+
+Хамзина Ульяна Маратовна
+ИТ - 17, 18 - 2025 НБ
